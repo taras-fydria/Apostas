@@ -1,0 +1,10 @@
+/.idea/
+/dist/
+/node_modules/
+/package-lock.json
+/.idea/modules.xml
+/.idea/MyTheme.iml
+/.idea/php.xml
+/.idea/vcs.xml
+/.idea/workspace.xml
+/mix-manifest.json
